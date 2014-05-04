@@ -6,6 +6,7 @@
 // @exclude	http://support.*/*
 // @grant	none
 // ==/UserScript==
+
 var br = {
     turnOn: "Ativado",
     turnOff: "Desativado",
