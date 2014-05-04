@@ -7,6 +7,7 @@
 // @grant	none
 // ==/UserScript==
 
+h
 var br = {
     turnOn: "Ativado",
     turnOff: "Desativado",
